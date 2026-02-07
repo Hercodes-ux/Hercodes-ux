@@ -2,7 +2,7 @@
 
 **MS in Computer Science Student @ CSU | Aspiring Analytics Engineer & Data Scientist | Ex-Accenture**
 
-I am a Graduate Student at Cleveland State University with a professional background in enterprise SQL environments at **Accenture**. Currently, I am transitioning my focus toward **Data Analytics and Data Science**, with a specific interest in building scalable, autonomous data pipelines that turn raw SQL into real-time business intelligence.
+I am Sai Venkata Harshini, Rayavarapu a Graduate Student at Cleveland State University with a professional background in enterprise SQL environments at **Accenture**. Currently, I am transitioning my focus toward **Data Analytics and Data Science**, with a specific interest in building scalable, autonomous data pipelines that turn raw SQL into real-time business intelligence.
 
 ---
 
