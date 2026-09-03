@@ -11,6 +11,8 @@ I bridge the gap between high-integrity enterprise data systems and modern neura
 ### 🎬 [NeuralStream: Industrial-Scale Retrieval & Ranking](https://github.com/Hercodes-ux/Two-Tower-Neural-Retrieval-and-Ranking-System)
 *   **The Problem:** Solving the Scale-vs-Latency Paradox in million-item recommendation catalogs.
 *   **The Solution:** A Two-Stage pipeline using **PyTorch** Two-Tower embeddings and **FAISS** ANN search.
+*   **Impact:** Reduced candidate generation latency to **sub-50ms** for 1M+ items.
+*   👉 **[Read the Technical Article on Medium](https://medium.com/@rayavarapu.harshini/scaling-personalization-how-i-built-a-two-tower-retrieval-system-for-a-million-item-catalog-de9194179e01)** | **[View Source Code](https://github.com/Hercodes-ux/Two-Tower-Neural-Retrieval-and-Ranking-System)**
 *   **Result:** Achieved **sub-50ms inference latency** on 1M+ items.
 
 ### 📊 [Causal Analytics: Incremental Lift Framework](https://github.com/Hercodes-ux/Causal-Inference-Incremental-Lift-Analysis)
