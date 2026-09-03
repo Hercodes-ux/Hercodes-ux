@@ -1,28 +1,37 @@
- Hi, I’m Harshini (Hercodes-ux) 👋 
-**MS in Computer Science Student @ CSU | Aspiring Analytics Engineer & Data Scientist | Ex-Accenture**
+# Hi, I'm Harshini (Hercodes-ux) 👋 
+### Machine Learning Engineer & Data Scientist
+**MS in Computer Science @ CSU | Ex-Accenture (1.2+ Years)**
 
-I am a Graduate Student at Cleveland State University with a professional foundation in enterprise SQL environments from my tenure at **Accenture**. Currently, I am specializing in building scalable pipelines that transform raw data into actionable business intelligence.
-
-### 📚 What I’m Building
-- **NLP Misinformation Detection:** A modular NLP pipeline designed to classify deceptive content across 44,000+ articles using TF-IDF and optimized Logistic Regression.
-- **Financial Customer Segmentation:** A deep-dive multivariate analysis of retail banking portfolios to identify high-value client segments.
-- **Analytics Engineering Utilities:** A reusable Python library for automated data wrangling, feature engineering, and interactive Plotly visualizations.
-- **Autonomous SQL Agent (In Progress):** Researching Agentic AI workflows to automate natural language-to-SQL query generation.
-
-### 💻 Technical Toolkit
-- **Data Science:** SQL (Advanced), Python (Pandas, Scikit-Learn, NumPy), Statistical EDA.
-- **Visualization:** Plotly (Interactive), Seaborn, Matplotlib.
-- **AI Exploration:** LangChain, LLM Integration (Groq/Llama 3.3), Prompt Engineering.
-- **Platforms:** Git/GitHub, Microsoft Excel (Advanced), Microsoft Azure/AWS (Learning).
-
-### 🎨 The "havwish" Side
-Outside of the terminal, I am a digital illustrator under the brand **havwish**. I focus on character sketching, face cards, and visual storytelling. I believe that data, like art, is about finding the meaningful story hidden within the noise.
+I bridge the gap between high-integrity enterprise data systems and modern neural architectures. My work focuses on building scalable, production-ready AI solutions where **latency** and **causal truth** are the primary objectives.
 
 ---
 
-### 📈 2026 Career Goals
-Targeting **Analytics Engineer** or **Associate Data Scientist** roles for Summer 2026. I am eager to apply my enterprise background and Master's research to solve complex data challenges.
+## 🚀 Featured Engineering Systems
 
-📫 **Reach me at:**
-- **Email:** [rayavarapu.harshini@gmail.com](mailto:rayavarapu.harshini@gmail.com) 
-- **LinkedIn:** [sai-venkata-harshini-rayavarapu](https://www.linkedin.com/in/sai-venkata-harshini-rayavarapu-853976204/)
+### 🎬 [NeuralStream: Industrial-Scale Retrieval & Ranking](https://github.com/Hercodes-ux/Two-Tower-Neural-Retrieval-and-Ranking-System)
+*   **The Problem:** Solving the Scale-vs-Latency Paradox in million-item recommendation catalogs.
+*   **The Solution:** A Two-Stage pipeline using **PyTorch** Two-Tower embeddings and **FAISS** ANN search.
+*   **Result:** Achieved **sub-50ms inference latency** on 1M+ items.
+
+### 📊 [Causal Analytics: Incremental Lift Framework](https://github.com/Hercodes-ux/Causal-Inference-Incremental-Lift-Analysis)
+*   **The Problem:** Identifying true feature ROI by eliminating "Superfan" Selection Bias.
+*   **The Solution:** Implemented **Propensity Score Matching (PSM)** and Counterfactual Analysis.
+*   **Result:** Identified a **700% over-estimation error** in standard correlational metrics.
+
+### 🐢 [Starbit Engine: Agentic Data-Spirit Analyst](https://github.com/Hercodes-ux/Starbit-Engine-Master) (In-Progress)
+*   **The Concept:** A Ghibli-themed autonomous multi-agent system using **LangGraph** and **Llama 3.3**.
+*   **The Innovation:** Features a self-correcting "Spirit Guardian" loop to validate SQL mining and neural data-flow visualization.
+
+---
+
+## 🛠️ Technical Toolkit
+*   **Production ML:** PyTorch, FAISS (Vector DB), FastAPI, Docker, MLOps.
+*   **Data Science:** Causal Inference, A/B Testing, Statistics, Scikit-Learn.
+*   **Languages:** Python (Expert), SQL (Expert), Mainframe (COBOL/JCL), C++.
+
+---
+
+## 🎨 The "Hercodes" Philosophy
+I believe that data, like art, is about finding the meaningful story hidden within the noise. I combine my background in **Banking Data Reliability** with a passion for **Aesthetic AI Design** to build tools that are as beautiful as they are powerful.
+
+[LinkedIn](https://linkedin.com/in/sai-venkata-harshini-rayavarapu-853976204) | [Medium Blog]([YOUR_MEDIUM_LINK](https://medium.com/@rayavarapu.harshini/scaling-personalization-how-i-built-a-two-tower-retrieval-system-for-a-million-item-catalog-de9194179e01))
